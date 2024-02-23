@@ -1,0 +1,40 @@
+body{
+    /* text-align: center; */
+    background-color: rgb(43, 173, 130);
+}
+
+#headersection{
+   font-family: cursive;
+   padding: 5px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+    
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 16%;
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+#loginbtn{
+     padding: 5px;
+     border-radius: 5px;
+     background-color: burlywood;
+     cursor: pointer;
+     color: black;
+}
+
+#regbtn{
+    text-decoration: none;
+    color: blue
+}
+
+
+
